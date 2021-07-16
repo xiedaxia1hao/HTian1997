@@ -1,7 +1,7 @@
 
 ## About me
 
-I'm a 2nd year Ph.D. student majoring in Theoretical and Computational Chemistry at Southern Methodist University. I'm also pursuing a MS in Computer Science at Georgia Tech. 
+I'm a 3rd year Ph.D. student majoring in Computational Chemistry at Southern Methodist University. I'm also pursuing a MS in Computer Science at Georgia Tech. 
 
 I mainly focus on the study of protein conformations through artificial intelligence. 
 
